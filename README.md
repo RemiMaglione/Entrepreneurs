@@ -6,7 +6,7 @@ Ce dépôt contient une collection de projets utilitaires développés que j'ai 
 
 ### 🔹 [Convertisseur BNC pour QuickBooks](./convertisseur-bnc-quickbooks)
 
-> Outil graphique pour transformer un relevé bancaire BNC en fichier CSV compatible QuickBooks.  
+> Corebaqu : un outil graphique pour transformer un relevé bancaire BNC en fichier CSV compatible QuickBooks.  
 > 👉 [Télécharger la version .exe](https://github.com/RemiMaglione/Entrepreneurs/releases/tag/corebaqu-v0.35)
 
 ---
