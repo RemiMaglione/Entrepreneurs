@@ -1,4 +1,4 @@
-# Convertisseur Relevé Bancaire BNC pour QuickBooks
+# COnvertisseur RElevé BAncaire BNC pour QUickBooks
 
 Ce petit utilitaire vous permet de convertir un relevé bancaire BNC exporté en Excel (depuis un PDF via Acrobat Pro) en un fichier CSV compatible avec QuickBooks.
 
