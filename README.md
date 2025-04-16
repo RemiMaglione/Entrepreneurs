@@ -1,6 +1,6 @@
 # Entrepreneurs
 
-Ce dépôt contient une collection de projets utilitaires développés que j'ai développer pour accompagner mes projets d'entrepreneur
+Ce dépôt contient une collection de projets utilitaires que j'ai développés pour accompagner mes projets d'entrepreneur
 
 ## 📁 Projets
 
