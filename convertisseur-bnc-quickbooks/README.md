@@ -2,6 +2,12 @@
 
 Ce petit utilitaire vous permet de convertir un relevé bancaire BNC exporté en Excel (depuis un PDF via Acrobat Pro) en un fichier CSV compatible avec QuickBooks.
 
+## 📦 Téléchargement
+
+La version compilée de Corebaqu est disponible ici :
+
+👉 [Télécharger Corebaqu v0.35 (.exe)](https://github.com/RemiMaglione/Entrepreneurs/releases/tag/corebaqu-v0.35)
+
 ## 🧰 Fonctionnalités
 
 - Interface graphique simple (Gooey)
